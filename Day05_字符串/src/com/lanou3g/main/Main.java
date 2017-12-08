@@ -1,7 +1,5 @@
 package com.lanou3g.main;
 
-import java.util.Map;
-
 import test.Student;
 
 public class Main {

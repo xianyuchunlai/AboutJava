@@ -29,8 +29,6 @@ public class Main {
         //获得<student>中的<student>标签
         Element student = root.element("student");
 
-       
-
         //获取<students>标签下的name属性
         Attribute name = student.attribute("name");
 

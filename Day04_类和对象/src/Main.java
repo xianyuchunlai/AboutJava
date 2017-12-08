@@ -14,7 +14,7 @@ public class Main {
 		//Car就是类
 		//car就是对象，
 		//是根据Car这个类创建出来的
-		
+		//属性初始化的顺序：默认初始化，显示初始化，构造代码块初始化，构造方法初始化
 	
 //		car.showInfo();
 		System.out.println(car == c2);
